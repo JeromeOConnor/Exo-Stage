@@ -1,0 +1,137 @@
+@media screen and (max-width: 320px){
+
+
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 16px;
+    }
+    .name {
+        color: rgb(0, 0, 0);
+        text-decoration: none; 
+        font-size: 1.5em; 
+        font-weight: 800;
+    }
+    
+    .menu-hamburger {
+        width: 12px;
+        height: 12px;
+        margin-left: 159px;
+    
+    }
+    
+    .tabsMenu {
+        margin-top: 16px;
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #D6D6D9;
+        
+    }
+    .apourvoir{
+        border-bottom: 3px solid green;
+        color: green;
+        font-weight: 800;
+    }
+    
+    a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+    }
+    
+    /*img de barre de recherche*/
+    .icon{
+        margin-top: 16px;
+        margin-bottom: 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .calendar{
+        width: 12px;
+        height: 12px;
+    }
+    .checklist {
+        width: 12px;
+        height: 12px;
+        padding-right: 5px;
+    }
+    .search{
+        width: 12px;
+        height: 12px;
+    }
+    
+    /*img de metier box1*/
+    .card{
+        display: block;
+        border: 1px solid #D6D6D9;
+        border-bottom: 0px;
+        padding: 0px 0px 10px 15px;
+        /* padding: haut droite bas gauche*/
+    }
+    .job-price{
+        display: flex;
+        justify-content: space-between;
+    }
+    .job{
+        margin-bottom: 0px;
+    }
+    .price{
+        margin-right: 16px;
+    }
+    .badge{
+        margin-top: -18px;
+        font-size: 13px;
+        background-color: #ffe8e5;
+        display: table-caption;
+        border-radius: 4px;
+        padding: 3px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: #8F392F;
+    }
+    
+    .candidat{
+        display: block;
+        border: 1px solid #D6D6D9;
+        padding: 10px 0px 10px 15px;
+        margin-bottom: 16px;
+    }
+    .candidature{
+        display: flex;
+        justify-content: center;
+    }
+    .date {
+        width: 12px;
+        height: 12px;
+    }
+    .clock {
+        width: 12px;
+        height: 12px;
+    }
+    .profile{
+        width: 12px;
+        height: 12px;
+    }
+    .list-profile{
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
